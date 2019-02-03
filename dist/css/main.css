@@ -1,0 +1,5 @@
+/* Warning: do not edit the css file in dist, only edit the scss file */
+/* creates a sass variable */
+body {
+  background: #444;
+  color: #fff; }

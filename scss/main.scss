@@ -1,0 +1,8 @@
+/* Warning: do not edit the css file in dist, only edit the scss file */
+
+$primary-color: #444; /* creates a sass variable */
+
+body {
+  background: $primary-color;
+  color: #fff;
+}
